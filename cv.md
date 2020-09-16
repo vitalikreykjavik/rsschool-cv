@@ -2,7 +2,7 @@
 ![Image of Vitali Serada](https://sun9-68.userapi.com/impg/c857424/v857424987/12a7a5/7u2VAnY_FUo.jpg?size=400x0&quality=90&sign=c325b88989e831245e712ee3e444a950)
 ### Contact info
 * mobile: +375291724505 
-* e-mail: serada.vitali@yandex.ru 
+* e-mail: serada.vitali@yandex.ru/seradavitali@gmail.com 
 * telegram: vitalikreykjavik 
 
 ### Summary
