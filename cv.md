@@ -77,5 +77,5 @@ assss = pd.DataFrame(data = data, columns = columns)
 * Data analyst courses  
 
 ### Languages 
-* English B1-B3 - permanent use at work, mainly written speech
+* English B1-B2 - permanent use at work, mainly written speech
 * Chinese C1 - main working tool, permanent use at work
