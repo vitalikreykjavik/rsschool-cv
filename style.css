@@ -1,0 +1,27 @@
+.content {
+  max-width: 1024px;
+	margin: 0 auto;
+  
+  font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+	}
+
+h1 {
+	padding-bottom: 10px;
+	border-bottom: 1px solid #eaecef;
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1.4em;
+}
+
+pre {
+	padding: 16px;
+	margin: 0px;
+}
+
+.code__text {
+	background-color: #f6f8fa;
+}
